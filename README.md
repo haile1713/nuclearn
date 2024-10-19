@@ -17,7 +17,8 @@ Nuclearn is an informative web application that provides insights into nuclear e
 - **Tailwind CSS**: Utility-first CSS framework used for styling.
 - **JavaScript**: For interactive functionality.
 - **Netlify**: For deployment and hosting.
-Live Demo
+## Live Demo
+
 You can access the live version of the app here:
 
 https://nuclearn.netlify.app/quiz
