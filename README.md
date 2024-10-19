@@ -21,7 +21,7 @@ Nuclearn is an informative web application that provides insights into nuclear e
 
 You can access the live version of the app here:
 
-https://nuclearn.netlify.app/quiz
+https://nuclearn.netlify.app/
 
 ## Installation
 
